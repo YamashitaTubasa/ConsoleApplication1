@@ -5,10 +5,10 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Hello World\n";
 
     std::cout << "ブランチを追加\n";
-
+    
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
