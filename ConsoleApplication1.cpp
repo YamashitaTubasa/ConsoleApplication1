@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello visualstadio\n";
+    std::cout << "Hello\n";
 
     std::cout << "ブランチを追加\n";
     
